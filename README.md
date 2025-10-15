@@ -1,4 +1,4 @@
-CMPUT 301 : Lab 6 - Firestore
+CMPUT 301 : Lab 6 - JUnit and TDD in Android, Javadoc
 Student Details
 Full Name: Marin Nelson
 CCID: monelson
